@@ -1,0 +1,15 @@
+help function from shp2dgn_converter
+
+Func: shp2dgn 
+Desc: convecao de um ou varios ficheiros SHP em um ou varios ficheiros DGN
+Parm: imputdir/file outputdir mappingfile seedfile cellfile fetures merge
+
+Func: shp2dgnForm 
+Desc: convecao de um ou varios ficheiros SHP em um ou varios ficheiros DGN
+Parm: parametros cedidos por selecao do utilizador 
+
+
+
+...Done!
+
+Tempo de execucao: 0:00:00.122000
